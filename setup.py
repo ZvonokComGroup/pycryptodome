@@ -39,7 +39,7 @@ from compiler_opt import set_compiler_options
 
 use_separate_namespace = os.path.isfile(".separate_namespace")
 
-project_name = "pycryptodome"
+project_name = "pycrypto"
 package_root = "Crypto"
 other_project = "pycryptodomex"
 other_root = "Cryptodome"
